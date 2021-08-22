@@ -2,8 +2,8 @@
 Android Date Range Picker
 
 <p align="center">
-  <img src="https://github.com/swapnillengure333/AndroidDateRangePicker/blob/master/Screenshot_2021-08-22-18-29-48-257_com.swapnillengure.daterangepicker.jpg" width="250" title="Screenshot">
-  <img src="https://github.com/swapnillengure333/AndroidDateRangePicker/blob/master/Screenshot_2021-08-22-18-30-04-298_com.swapnillengure.daterangepicker.jpg" width="250" alt="Screenshot">
+  <img src="https://github.com/swapnillengure333/AndroidDateRangePicker/blob/master/Screenshot/Screenshot_2021-08-22-19-53-43-910_com.swapnillengure.daterangepicker.jpg" width="250" title="Screenshot">
+  <img src="https://github.com/swapnillengure333/AndroidDateRangePicker/blob/master/Screenshot/Screenshot_2021-08-22-19-53-47-692_com.swapnillengure.daterangepicker.jpg" width="250" alt="Screenshot">
 </p>
 
 >Step 1. Add the JitPack repository to your build file
