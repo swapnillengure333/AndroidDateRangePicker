@@ -22,7 +22,7 @@ allprojects {
   
   ```gradle
   dependencies {
-	        implementation 'com.github.swapnillengure333:AndroidDateRangePicker:Tag'
+	        implementation 'com.github.swapnillengure333:AndroidDateRangePicker:1.0.0'
 	}
   ```
   
